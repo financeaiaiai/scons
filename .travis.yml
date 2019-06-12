@@ -1,9 +1,6 @@
 dist: trusty
 language: python
 
-notifications:
-  irc: "chat.freenode.net#scons"
-
 addons:
     apt:
       update: true
